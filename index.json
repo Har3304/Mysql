@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 31,
+    "city": "New York",
+    "joining_date": "2023-01-15",
+    "skills": ["Python", "SQL", "Machine Learning"]
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "age": 28,
+    "city": "London",
+    "joining_date": "2022-07-20",
+    "skills": ["Java", "Spring Boot", "Docker"]
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 35,
+    "city": "Toronto",
+    "joining_date": "2021-11-05",
+    "skills": ["C++", "Data Structures", "Algorithms"]
+  },
+  {
+    "id": 4,
+    "name": "Emma Brown",
+    "age": 26,
+    "city": "Sydney",
+    "joining_date": "2024-03-12",
+    "skills": ["JavaScript", "React", "Node.js"]
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "age": 40,
+    "city": "Berlin",
+    "joining_date": "2020-09-30",
+    "skills": ["Go", "Kubernetes", "Cloud Computing"]
+  }
+]
